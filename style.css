@@ -20,6 +20,7 @@
     display: flex;
     flex-wrap: wrap;
   }
+  /* Labai svarbiai rimtas komentaras */
   .smallbox div {
     height: 50%;
     width: 50%;
